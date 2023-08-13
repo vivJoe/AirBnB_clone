@@ -5,10 +5,15 @@ Console to handle object storage using JSON serialization and deserealization. T
 # 0x00.Table of contents
 
 0x01 Introduction
+
 0x02 Environment
+
 0x03 Installation
+
 0x04 Testing
+
 0x05 Usage
+
 0x06 Authors
 
 ## 0x01 Introduction
@@ -22,8 +27,11 @@ To see the fundamental background of the project visit the Wiki.
 The console will perform the following tasks:
 
 create a new object
+
 retrive an object from a file
+
 do operations on objects
+
 destroy an object
 
 * Storage
@@ -181,9 +189,9 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
 
 (hbnb) create User
 1afa163d-486e-467a-8d38-3040afeaa1a1
-(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "aysuarex@gmail.com"
+(hbnb) update User 1afa163d-486e-467a-8d38-3040afeaa1a1 email "jengreat94@gmail.com"
 (hbnb) show User 1afa163d-486e-467a-8d38-3040afeaa1a1
-[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'aysuarex@gmail.com'}
+[User] (s) [User] (1afa163d-486e-467a-8d38-3040afeaa1a1) {'id': '1afa163d-486e-467a-8d38-3040afeaa1a1', 'created_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502157), 'updated_at': datetime.datetime(2021, 11, 14, 23, 42, 10, 502186), 'email': 'jengreat94@gmail.com'}
 (hbnb)
 
 # Authors
