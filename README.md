@@ -1,6 +1,6 @@
 # 0x00. AirBnB clone - The console
 
-Console to handle object storage using JSON serialization and deserealization. This is a team project to develop a Python3 console that emulates the AirBnb object management. Include directory with static web pages for desktop and mobile first version with ARIA implementation.
+Console to handle object storage using JSON serialization and deserealization. This is a team project to develop a Python3 console that emulates the AirBnb object management. 
 
 # 0x00.Table of contents
 
